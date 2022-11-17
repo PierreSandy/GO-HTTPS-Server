@@ -1,0 +1,4 @@
+FROM 
+COPY source 
+RUN
+CMD
